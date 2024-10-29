@@ -1,4 +1,4 @@
-# Formulário-CadE-commerce
+# Projeto - Formulário de cadastro de E-commerce
  
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web ministrada pelo professor Leonardo Rocha.
  
